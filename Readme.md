@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Ирина Князева](https://up.htmlacademy.ru/adaptive/28/user/2288933).
-* Наставник: `Олег Цыганов`.
+* Наставник: [Олег Цыганов](https://htmlacademy.ru/profile/olegtsyganov).
 
 ---
 
